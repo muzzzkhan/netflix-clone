@@ -1,3 +1,5 @@
+This is a Netflix clone utilizing ⚛️ React.js + Tailwind for the user interface, 🔥 Firebase for user authentication and wishlist management, ⚛️📡 React Router for navigation, and 🎬 themoviedb API to obtain movie data.
+
 Have a look at the deployed website
 https://netflix-2db4c.web.app/
 
